@@ -239,3 +239,6 @@ This repository serves as the official landing page for Microsoft Image Composit
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Microsoft Image Composite Editor today!**
+
+---
+**Last updated:** 2026-09-10 16:53:12 UTC
